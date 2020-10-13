@@ -1,0 +1,17 @@
+
+
+
+
+
+@font-face {
+    font-family: 'ShadowedBlackWide Normal';
+    font-style: normal;
+    font-weight: normal;
+    src: local('ShadowedBlackWide Normal'), url('Shadowed Black Wide.woff') format('woff');
+    }
+
+    h1{
+    font-family: 'ShadowedBlackWide Normal';
+    color: gray;
+    
+    }
